@@ -5,8 +5,8 @@ Object.defineProperty(exports, "__esModule", {
 });
 
 const mats = require('gl-matrix');
-const mink = require('./../hyperboloid-model/index.js');
-//const mink = require('hyperboloid-model');
+//const mink = require('./../hyperboloid-model/index.js');
+const mink = require('hyperboloid-model');
 const mod = require('mod-op');
 const Deque = require("collections/deque");
 const FastSet  = require("collections/fast-set");

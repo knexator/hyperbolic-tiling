@@ -28,7 +28,7 @@
   "dependencies": {
     "collections": "^5.1.9",
     "gl-matrix": "^3.0.0",
-    "hyperboloid-model": "^0.0.3",
+    "hyperboloid-model": "^0.0.5",
     "mod-op": "^1.0.1"
   }
 }
